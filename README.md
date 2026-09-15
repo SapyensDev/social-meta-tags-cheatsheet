@@ -205,4 +205,4 @@ MIT. Usa, copia y adapta libremente.
 
 ## Contribuir
 
-Pull requests bienvenidas, correcciones, plataformas adicionales, ejemplos nuevos. Abre un issue si tienes dudas sobre algún caso concreto.
+Pull requests bienvenidas, correcciones, plataformas adicionales, ejemplos nuevos. Abre un issue si tienes dudas sobre algún caso concreto. 
